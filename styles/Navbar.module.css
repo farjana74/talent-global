@@ -22,3 +22,9 @@
 .hide {
   color: #202020;
 }
+.navbarToggler {
+  color: white!;
+}
+.toggleIcon {
+  color: white !important;
+}

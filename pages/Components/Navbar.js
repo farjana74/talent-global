@@ -27,13 +27,13 @@ const Navbar = () => {
       </div>
         <div className='navbar-nav ms-2'>
         <li className="nav-item  ">
-          <a className={`${style.navigation} nav-link`}aria-current="page" href="#">Home</a>
+          <a className={`${style.navigation} nav-link`}aria-current="page" >Home</a>
         </li>
         <li className="nav-item  ">
           <a className={`${style.navigation} nav-link`}aria-current="page" href="#"><AiOutlineRight /></a>
         </li>
         <li className="nav-item">
-          <a className={`${style.navigation} nav-link`} href="#">Privacy Policy</a>
+          <a className={`${style.navigation} nav-link`} >Privacy Policy</a>
         </li>
        
         </div>
